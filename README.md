@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arunkumar
 - 👀 I’m interested in ...IoT engineering 
 - 🌱 I’m currently learning ...Electronics and Communication Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...arunkumarg099@gmail.com
 
 <!---
