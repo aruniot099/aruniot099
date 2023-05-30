@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arunkumar
-- 👀 I’m interested in ...IoT engineering 
+- 👀 I’m interested in ...IoT engineering and VLSI 
 - 🌱 I’m currently learning ...Electronics and Communication Engineering
 - 📫 How to reach me ...arunkumarg099@gmail.com
 
